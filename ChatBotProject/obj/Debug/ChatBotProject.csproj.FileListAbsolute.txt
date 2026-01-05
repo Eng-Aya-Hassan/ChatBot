@@ -1,0 +1,36 @@
+C:\Users\RAM\Downloads\ChatBotProject-master\ChatBotProject\ChatBotProject\bin\Debug\ChatBotProject.exe.config
+C:\Users\RAM\Downloads\ChatBotProject-master\ChatBotProject\ChatBotProject\bin\Debug\ChatBotProject.exe
+C:\Users\RAM\Downloads\ChatBotProject-master\ChatBotProject\ChatBotProject\bin\Debug\ChatBotProject.pdb
+C:\Users\RAM\Downloads\ChatBotProject-master\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.csprojAssemblyReference.cache
+C:\Users\RAM\Downloads\ChatBotProject-master\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.bubble.resources
+C:\Users\RAM\Downloads\ChatBotProject-master\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.Form1.resources
+C:\Users\RAM\Downloads\ChatBotProject-master\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.Properties.Resources.resources
+C:\Users\RAM\Downloads\ChatBotProject-master\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.csproj.GenerateResource.cache
+C:\Users\RAM\Downloads\ChatBotProject-master\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.csproj.CoreCompileInputs.cache
+C:\Users\RAM\Downloads\ChatBotProject-master\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.csproj.CopyComplete
+C:\Users\RAM\Downloads\ChatBotProject-master\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.exe
+C:\Users\RAM\Downloads\ChatBotProject-master\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.pdb
+E:\Projects for code-projects\ChatBotProject\ChatBotProject\bin\Debug\ChatBotProject.exe.config
+E:\Projects for code-projects\ChatBotProject\ChatBotProject\bin\Debug\ChatBotProject.exe
+E:\Projects for code-projects\ChatBotProject\ChatBotProject\bin\Debug\ChatBotProject.pdb
+E:\Projects for code-projects\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.csprojAssemblyReference.cache
+E:\Projects for code-projects\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.bubble.resources
+E:\Projects for code-projects\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.Form1.resources
+E:\Projects for code-projects\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.Properties.Resources.resources
+E:\Projects for code-projects\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.csproj.GenerateResource.cache
+E:\Projects for code-projects\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.csproj.CoreCompileInputs.cache
+E:\Projects for code-projects\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.csproj.CopyComplete
+E:\Projects for code-projects\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.exe
+E:\Projects for code-projects\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.pdb
+E:\ChatBotProject\ChatBotProject\bin\Debug\ChatBotProject.exe.config
+E:\ChatBotProject\ChatBotProject\bin\Debug\ChatBotProject.exe
+E:\ChatBotProject\ChatBotProject\bin\Debug\ChatBotProject.pdb
+E:\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.csproj.AssemblyReference.cache
+E:\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.bubble.resources
+E:\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.Form1.resources
+E:\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.Properties.Resources.resources
+E:\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.csproj.GenerateResource.cache
+E:\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.csproj.CoreCompileInputs.cache
+E:\ChatBotProject\ChatBotProject\obj\Debug\ChatBotP.2E4DA1AC.Up2Date
+E:\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.exe
+E:\ChatBotProject\ChatBotProject\obj\Debug\ChatBotProject.pdb
